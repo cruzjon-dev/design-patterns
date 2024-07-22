@@ -4,6 +4,7 @@
  * OBSERVER
  * - Also known as: Event-Subscriber, Listener
  * - A behavioral design pattern that allows some objects to notify other objects about changes in their state.
+ * - Not to be confused with the Mediator class. The primary goal of Mediator is to eliminate mutual dependencies among a set of system components. Instead, these components become dependent on a single mediator object. The goal of Observer is to establish dynamic one-way connections between objects, where some objects act as subordinates of others.
 ****************************************************************/
 
 
